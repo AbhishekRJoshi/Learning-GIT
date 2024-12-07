@@ -1,0 +1,1 @@
+We can also stage two files together using git add . command.

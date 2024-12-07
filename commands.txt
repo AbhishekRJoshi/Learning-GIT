@@ -1,1 +1,2 @@
 Step 1 -> Intialise a GIT Repo using git init command
+To add a file to staging area we use the git add command
